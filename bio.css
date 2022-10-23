@@ -1,0 +1,135 @@
+body {
+    background-color: #F2FFFC;
+    font-family: "Crimson Text", serif;
+    font-size: 20px;
+}
+.posicionamento {
+    margin: 0 auto;
+    width: 800px;
+    padding: 40px 0;
+    padding-bottom: 80px;
+}
+main h1 {
+    font-size:60px;
+    background-color: rgb(210,90,0);
+    color: rgb(250,255,250);
+    text-align: center;
+    font-family: "Open Sans Condensed", sans-serif;
+    padding: 20px;
+    margin: 0;
+    text-transform: uppercase;
+    border-bottom: 10px solid black;
+    font-weight: bold;
+}
+h2 {
+    font-size: 40px;
+    font-family: "Open Sans Condensed", sans-serif;
+    clear: both;
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+    margin: 20px 0;
+}
+blockquote {
+    background-color: #D3DDDA;
+    padding: 16px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin: 0;
+    box-sizing: border-box;
+    float: right;
+}
+strong {
+    font-weight: 600;
+}
+em {
+    font-style: italic;
+}
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    text-align: center;
+    padding: 20px;
+    font-family: "Open Sans Condensed", sans-serif;
+    clear: right;
+    box-sizing: border-box;
+    width: 15%;
+    position: relative;
+    top: 310px;
+}
+.icones-sociais li {
+    display: inline-block;
+    height: 60px;
+}
+nav h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+nav a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px;
+    display: inline-block;
+}
+footer {
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.icones-sociais a {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+.Instagram {
+    background-image: url(Insta%20Icon.png)
+}
+.Facebook {
+    background-image: url(Face%20Icon.png)
+}
+.TikTok {
+    background-image: url(Tik%20Tok%20Icon.png)
+}
+.Hobbies {
+    float: right;
+    margin-left: 40px;
+}
+.Amigos {
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+aside, 
+.minha-foto {
+    float: right;
+    box-sizing: border-box;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+}
+main {
+    float: left;
+    width: 85%;
+}
+.minha-foto {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.parte-dois {
+    margin-bottom: 40px;
+}
+.p2 {
+    margin-bottom: 30px;
+}
+
+blockquote cite {
+    font-style: italic;
+}
