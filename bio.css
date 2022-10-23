@@ -111,7 +111,7 @@ aside,
 .minha-foto {
     float: right;
     box-sizing: border-box;
-    border-bottom: 10px solid black;
+    border-bottom: 12px solid black;
     border-left: 10px solid black;
 }
 main {
